@@ -1,0 +1,30 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>ase</groupId>
+  <artifactId>testInstance</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <name>testInstance</name>
+  <description>starting matsim instance</description>
+  <dependencies>
+  	<dependency>
+  		<groupId>org.matsim</groupId>
+  		<artifactId>matsim</artifactId>
+  		<version>0.10.0-SNAPSHOT</version>
+  	</dependency>
+  	<dependency>
+  		<groupId>playground</groupId>
+  		<artifactId>sergioo</artifactId>
+  		<version>0.10.0-SNAPSHOT</version>
+  	</dependency>
+  	<dependency>
+  		<groupId>org.matsim</groupId>
+  		<artifactId>pt2matsim</artifactId>
+  		<version>0.9.0</version>
+  	</dependency>
+  	<dependency>
+  		<groupId>playground</groupId>
+  		<artifactId>pieter</artifactId>
+  		<version>0.10.0-SNAPSHOT</version>
+  	</dependency>
+  </dependencies>
+</project>
