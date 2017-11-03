@@ -1,0 +1,8 @@
+/META-INF/
+/lima/
+/main/
+
+*.properties
+
+# Package Files #
+*.jar
